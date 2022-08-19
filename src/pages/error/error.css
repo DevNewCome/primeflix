@@ -1,0 +1,30 @@
+.error{
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.error h2{
+  margin-bottom: 10px;
+}
+
+.error a{
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+.error a:hover{
+  color: blue;
+  
+}
+
+.error-text{
+  margin-top: 10px;
+}
+
+  
